@@ -4,7 +4,7 @@ from tools.utilities import load_css
 import json
 
 from views.dashboard import Dashboard
-# from views.extract_data import ExtractData
+from views.extract_data import ExtractData
 # from views.data_annotation import DataAnnotation
 from views.schema_extract_data import SchemaExtractData
 from views.model_training import ModelTraining
